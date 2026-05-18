@@ -24712,7 +24712,7 @@
   {
     "id": "custom-translate",
     "name": "Custom Translate",
-    "author": "liwbcraft",
+    "author": "Liwb",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Translate selected text via local API and manage your personal vocabulary.",
     "repo": "liwbcraft/custom-translate"
   },
