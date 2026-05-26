@@ -71,7 +71,7 @@
   },
   {
     "id": "obsidian-vimrc-support",
-    "name": "Vimrc Support",
+    "name": "Vimrc Support"，
     "author": "esm7",
     "description": "Auto-load a startup file with Vim commands.",
     "repo": "esm7/obsidian-vimrc-support"
@@ -25303,6 +25303,13 @@
     "author": "liwbcraft",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Translate selected text via local API and manage your personal vocabulary.",
     "repo": "liwbcraft/custom-translate"
+  },
+  {
+    "id": "ai-hub",
+    "name": "AI Hub",
+    "author": "liwbcraft",
+    "description": "Aggregate multiple AI assistants in Obsidian, switch and access with one click.",
+    "repo": "liwbcraft/ai-hub"
   },
   {
     "id": "dataview-toggle",
